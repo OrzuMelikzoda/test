@@ -36,4 +36,4 @@
 ![alt text](image-10.png)
 ## Metod find()
 ### Mетод find() необходимо найти некоторые элементы, если он их найдет, наш метод будет тормозить
-![alt text](image-11.png)
+![alt text](image-11.png) 
